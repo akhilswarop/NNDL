@@ -11,11 +11,11 @@
     },
     {
       "type": "output",
-      "neurons": 3,
+      "neurons": 1,
       "activation": "sigmoid"
     }
   ],
   "learning_rate": 0.1,
-  "epochs": 10000,
+  "epochs": 2,
   "batch_size": 32
 }
